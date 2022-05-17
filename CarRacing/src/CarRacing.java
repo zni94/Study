@@ -1,9 +1,8 @@
-import java.io.IOException;
 import java.util.*;
 
 public class CarRacing {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args){
         List<Car> carList = new ArrayList<Car>();
 
         Integer carSize = inputSize();
