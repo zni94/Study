@@ -80,7 +80,7 @@ public class StringCalculation {
                             num = Math.multiplyExact(num1,num2);
                             break;
                         case "/":
-                            num = Math.divideExact(num1, num2);
+                            num = Math.floorDiv(num1, num2);
                             break;
                     }
 
