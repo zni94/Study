@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aeaefe6-1ad9-4748-8afc-a69110c6d071" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CarRacing/src/CarRacing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringCalculation/src/StringCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringCalculation/src/StringCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCalculation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCalculation/.idea/dictionaries/zni94.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCalculation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCalculation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCalculation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCalculation/StringCalculation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCalculation/out/production/StringCalculation/StringCalculation$Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCalculation/out/production/StringCalculation/StringCalculation.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652783850669</updated>
-      <workItem from="1652783851947" duration="1973000" />
+      <workItem from="1652783851947" duration="2607000" />
     </task>
     <servers />
   </component>
